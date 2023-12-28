@@ -1,0 +1,49 @@
+{
+    "Students": [
+      {
+        "Name": "Dhananjay Kumar Sharma",
+        "Course": "B.tech",
+        "Branch": "CSE",
+        "Age": 19,
+        "CGPA": 8.77
+      },
+      {
+        "Name": "Devansh Pandey",
+        "Course": "B.tech",
+        "Branch": "CSE",
+        "Age": 19,
+        "CGPA": 8.88
+      },
+      {
+        "Name": "Divyank Singh",
+        "Course": "B.tech",
+        "Branch": "CSE",
+        "Age": 19,
+        "CGPA": 8.9
+      }
+    ],
+    "Teachers": [
+      {
+        "Name": "Mr.Jaydeep Katiyar",
+        "Subject": "Operating System",
+        "HomeCity": "Lucknow"
+      },
+      {
+        "Name": "Umesh Pratap Singh",
+        "Subject": "DSTL",
+        "HomeCity": "Mumbai"
+      }
+    ],
+    "Staff": [
+      {
+        "Name": "Rajesh Verma",
+        "MaxSalary": 8000,
+        "HomeCity": "Basti"
+      },
+      {
+        "Name": "Raju Srivastava",
+        "MaxSalary": 8000,
+        "HomeCity": "Baliya"
+      }
+    ]
+  }
