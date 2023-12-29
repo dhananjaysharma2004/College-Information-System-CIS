@@ -1,6 +1,6 @@
-# College Detail System
+#  College Information System(CIS)
 
-The College Detail System is a Go program that manages and stores information about students, teachers, and staff in a university. The data is stored in a JSON file named university.json.
+The College Information System(CIS) is a Go program that manages and stores information about students, teachers, and staff in a university. The data is stored in a JSON file named university.json.
 
 ## Features
 
